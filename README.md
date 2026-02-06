@@ -1,3 +1,3 @@
 # Satketu-demo-project
 This is my first Git Repository
-Auther- Satketu
+Author- Satketu
